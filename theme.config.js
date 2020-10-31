@@ -16,7 +16,7 @@ export default {
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
       <meta name="description" content="Nextra: Next.js site builder" />
-      <meta name="og:description" content="Nextra: the next site builder" />
+      <meta name="og:description" content="Nextra: Next.js site builder" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:site" content="@mrahmadawais" />
       <meta name="og:title" content="Nextra: Next.js site builder" />
