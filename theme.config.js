@@ -4,7 +4,7 @@ export default {
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
-      <span className="text-gray-600 font-normal hidden md:inline">
+      <span className="text-gray-700 font-normal hidden md:inline">
         The Next.js Developer
       </span>
     </>
