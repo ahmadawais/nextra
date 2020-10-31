@@ -19,7 +19,7 @@ export default {
       <meta name="og:description" content="Nextra: the next site builder" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:site" content="@mrahmadawais" />
-      <meta name="og:title" content="Nextra: the next site builder" />
+      <meta name="og:title" content="Nextra: Next.js site builder" />
       <meta name="apple-mobile-web-app-title" content="Nextra" />
     </>
   ),
